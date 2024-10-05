@@ -51,6 +51,12 @@ You can also filter your feed based on the content language. To do this, click o
 
 ![Screenshot 2024-10-03 at 6 05 54 AM](https://github.com/user-attachments/assets/e888e32f-3869-4116-9223-2041d2df0e0f)
 
+## Following
+
+You can now follow people on daily.dev and if you are new and haven't followed any Users yet then Explore our [Leaderboards](https://app.daily.dev/users) to find and follow inspiring users! 
+
+![Screenshot of following section](https://github.com/user-attachments/assets/e3dd92b4-48d7-4ab4-a1d8-203ee0481a83)
+
 ## Blocked items
 
 In the Feed Seeings menu, you can also access the "Blocked items" section. Here you can see all the sources and tags you have blocked.
