@@ -10,8 +10,11 @@ If you wish to delete your account on daily.dev, please follow these steps:
 
 1. Go to your profile by clicking on your profile icon.
 2. Click on "Account Details" in the profile menu.
-3. Scroll down until you reach the "Danger zone" section.
-4. Click on the "Delete account" button.
+3. Click on the "Security" section
+4. Scroll down until you reach the "Danger zone" section.
+5. Click on the "Delete account" button.
+   
+![delete acc](https://github.com/user-attachments/assets/d41c9d33-79ad-4ec1-aab6-7845a4c781a1)
 
 :::danger
 Important: Deleting your account is **unrecoverable and cannot be undone**.
